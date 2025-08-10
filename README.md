@@ -1,2 +1,2 @@
 # Morse-code-converter
-A morse code converter purly made from C language.
+A Morse code converter purely in C language.
